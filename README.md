@@ -36,13 +36,17 @@ The landing page showcases different ticket tiers using reusable Vue components.
     - git clone YOUR_GITHUB_REPOSITORY_LINK
     
 - Navigate into the project:
-    - cd food-fest-landing
+    - cd food-fest-webpage
 
 - Install dependencies:
     - npm install
 
 - Run development server:
     - npm run dev
+ 
+- View project:
+    - copy localhost link
+    - paste link in browser
 
 
 ## Project Structure
