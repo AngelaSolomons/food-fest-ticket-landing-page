@@ -33,7 +33,7 @@ The landing page showcases different ticket tiers using reusable Vue components.
 
 ## Installation
 - Clone the repository:
-    - git clone YOUR_GITHUB_REPOSITORY_LINK
+    - https://github.com/AngelaSolomons/food-fest-ticket-landing-page.git
     
 - Navigate into the project:
     - cd food-fest-webpage
@@ -72,10 +72,10 @@ src/
 Below is an example of the completed interface:
 
 Food Fest Landing Page
-<a href="https://ibb.co/Rpjmbf8p"><img src="https://i.ibb.co/LzNWRmKz/food-fest-landing-page.jpg" alt="food fest landing page" border="0"></a>
+<img src="https://i.ibb.co/LzNWRmKz/food-fest-landing-page.jpg" alt="food fest landing page">
 
 ---
 
 ## Author
 
-Angela Solomons
+Created by: Angela Solomons
